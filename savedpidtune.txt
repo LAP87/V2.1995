@@ -1,0 +1,5 @@
+##*# [extruder]
+##*# control = pid
+##*# pid_kp = 31.266
+##*# pid_ki = 1.567
+##*# pid_kd = 155.939
